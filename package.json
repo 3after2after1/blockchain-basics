@@ -1,13 +1,21 @@
 {
-  "name": "blockchain",
+  "name": "blockchain-basics",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3after2after1/blockchain-basics.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3after2after1/blockchain-basics/issues"
+  },
+  "homepage": "https://github.com/3after2after1/blockchain-basics#readme"
 }
